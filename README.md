@@ -60,3 +60,6 @@ Attempt 3:
 *The model achieved an accuracy of 73.88%, indicating that it correctly predicted the class of the data points nearly 74% of the time.
 *The loss value of 0.5224 suggests that the model's performance in terms of minimizing errors during training was moderate.
 *Since the accuracy is around 73.88%, there is room for improvement. Hyperparameter tuning may improve the model's performance. Techniques like adjusting learning rates, trying different optimizers, or modifying the network architecture could help enhance the model's accuracy.
+
+##UPDATE
+I forgot to download the HDF5 file for Optimization Attempt 1. After running the module again my results increased from 73.88% to 74.03%.
