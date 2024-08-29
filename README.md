@@ -69,4 +69,5 @@ I forgot to download the HDF5 file for Optimization Attempt 1. After running the
 # Results for Attempt 1 After Being Reran to Download HDF5 file.
 ![Rerun ATTEMPT 2](https://github.com/mcscodes/deep-learning-challenge/blob/main/Rerun_Optimization_1_Results.png))
 
-
+# Notes
+Xpert Learning Assistant was used in completing this analysis.
